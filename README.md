@@ -83,7 +83,7 @@ Clouds absorb more sunlight than conventional physics predicts possible.
 
 2. Roll of green plastic to filter the light.
 
-3. Roll of Polarizing Film: (Also referred to as a "polarizing sheet" and "polarizing filter sheet").
+3. Roll of polarizing film: (Also referred to as a "polarizing sheets" and "polarizing filter sheets").
 
 4. [14"x52" Reflective Self Adhesive Mirror](https://www.amazon.com/Vailubiri-Reflective-Adhesive-Furniture-Decoration/dp/B0CLGV9F2S/ref=sr_1_10)
 
@@ -94,4 +94,6 @@ Clouds absorb more sunlight than conventional physics predicts possible.
 Surround the LED lights with mirrors and focus the polarized green light onto surface of water at 45 degrees. Observe if visible mist occurs.
 
 How much LED light energy is required to evaporate one cup of water from the surface of the pan in one hour?
+
+Compare with and without polarization sheet and green light filter.
 
