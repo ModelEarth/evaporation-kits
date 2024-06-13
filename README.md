@@ -39,20 +39,16 @@ During cold SuperThermal Evaporation (via the Photomolecular Effect), photons **
 ## Light Nanometres
 
 **nanometres (nm)**
-ultraviolet (UV) from 200 to 400 nm - Source of skin cancer
-blue from 400 to 500 nm
-green from 500 to 600 nm
-red from 600 to 700 nm
-near infrared (NIR) from 700 to 800 nm
-infrared (IR) from 800 to 1200 nm - Longer wave length, early morning?
+Ultraviolet (UV) from 200 to 400 nm - Source of skin cancer
+Blue from 400 to 500 nm
+Green from 500 to 600 nm
+Red from 600 to 700 nm
+Near infrared (NIR) from 700 to 800 nm
+Infrared (IR) from 800 to 1200 nm - Longer wavelength - Polarized light in mornings and evenings
 
-[Polarized light therapy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7065605/) Polarized, light penetrates further into tissues.
+[Polarized Light Therapy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7065605/) - Polarized light penetrates further into tissues. Sunlight exposure, especially in the morning when UV radiation is less intense, helps the body produce vitamin D. Adequate levels of vitamin D are associated with a lower risk of several cancers, including colorectal and breast cancer.
 
-
-## Solar Panels for water from air - Source Global
-
-Source Global provides solar panels for condensing water from air in over 50 countries using an internal electric fan to move air through a dry desiccant material to produce 4-5 liters of water per panel per day. They're not using MOF or GreenLight, yet.
-[Source.co](https://www.source.co)
+Early morning and evening light is strongly polarized since it reaches the surface at a shallow 90-degree angle from the original path. In addition, the longer path through the atmosphere causes more scattering and greater polarization during which the rotational state of the molecules sync via [Raman Scattering](https://en.wikipedia.org/wiki/Raman_scattering). &nbsp;More red and orange occur in the morning due to greater atmospheric scattering of the shorter blue wavelengths. At noon a higher proportion of short wavelength blue light makes it through narrow atmosphere distance, resulting in a full spectrum white appearance.
 
 
 ## Capturing water using a Metal-Organic Framework (MOF)
@@ -62,7 +58,12 @@ Discovered at MIT in 2021, porous Metal-Organic Frameworks (MOF) can trap water 
 Does the following article give us liters-per-day to compare with Source.co solar panels?
 [2023 - MOF 50% efficiency gain](https://techxplore.com/news/2023-03-air-metal-organic-framework.html)
 
-## Optimization using multiple technologies
+## Solar panels that condense water from air
+
+Source.co uses solar panels to condense water from air. Used in over 50 countries, the panels have an internal electric fan to move air through a dry desiccant material to produce 4-5 liters of water per panel per day. They're not using MOF or GreenLight, yet. [Source.co](https://www.source.co)
+
+
+## Water harvesting optimization using multiple technologies
 
 <!--Combining GreenLight evaporation with MOF water capture and Solar Panels for heat and airflow-->
 
