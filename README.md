@@ -53,7 +53,7 @@ Early morning and evening light is strongly polarized since it reaches the earth
 
 ## Capturing water using a Metal-Organic Framework (MOF)
 
-Discovered at MIT in 2021, porous Metal-Organic Frameworks (MOF) can trap water from air by using tiny aluminum-based rods. In March 2023 a 50% efficiency gain was made by adding a linker extension consisting of two carbon atoms.
+Discovered at MIT in 2021, water is captured from air using porous Metal-Organic Frameworks (MOF) as tiny aluminum-based rods. In March 2023, a 50% efficiency gain was made by adding two carbon atoms as a linker extension.
 
 Does the following article give us liters-per-day to compare with Source.co solar panels?
 [2023 - MOF 50% efficiency gain](https://techxplore.com/news/2023-03-air-metal-organic-framework.html)
@@ -68,3 +68,30 @@ Source.co uses solar panels to condense water from air. Used in over 50 countrie
 <!--Combining GreenLight evaporation with MOF water capture and Solar Panels for heat and airflow-->
 
 GreenLight Kits for Kids using cool green polarized light could further improve MOF water trapping by increasing the available water vapor. Adding heat and airflow using solar energy could further enhance both the GreenLight evaporation process and MOF water capture. From what I've read previously, Water capture in porous MOF material occurs during the cool of the night. It uses the heat of the day to release the water.
+
+## Photomolecular Effect Details
+
+[How light can vaporize water without the need for heat](https://news.mit.edu/2024/how-light-can-vaporize-water-without-heat-0423)
+
+The effect is strongest when polarized green light hits the water surface at an angle of 45 degrees. (the color dependence is not yet accounted for.)
+
+Clouds absorb more sunlight than conventional physics predicts possible. 
+
+## Content of Kit
+
+1. Bright, cold LED lights - We use LED lights to avoid heat from sun.
+
+2. Roll of green plastic to filter the light.
+
+3. Roll of Polarizing Film: (Also referred to as a "polarizing sheet" and "polarizing filter sheet").
+
+4. [14"x52" Reflective Self Adhesive Mirror](https://www.amazon.com/Vailubiri-Reflective-Adhesive-Furniture-Decoration/dp/B0CLGV9F2S/ref=sr_1_10)
+
+5. 14"x52" shallow pan for water.
+
+**Experiment:**
+
+Surround the LED lights with mirrors and focus the polarized green light onto surface of water at 45 degrees. Observe if visible mist occurs.
+
+How much LED light energy is required to evaporate one cup of water from the surface of the pan in one hour?
+
