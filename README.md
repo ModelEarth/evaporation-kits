@@ -7,7 +7,7 @@
     </div>
 </div>
 
-**MIT News:** [Water Evaporate WITHOUT Heat](https://youtu.be/17Y82tJDk2o?si=NTd8OrYJcbRvYvld&t=488)
+**MIT News:** [Water Evaporation WITHOUT Heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
 
 SuperThermal Evaporation - Moving water with light and wind has the potential to generate bundant clean water.  Using green polarized light we can dry equipment without heat and blowers, and we can dry ourselves and our towels after showering. Most significantly, we can reduce ocean levels by building-up ice on Antarctica.
 
@@ -21,13 +21,20 @@ SuperThermal Evaporation - Moving water with light and wind has the potential to
 
 4. What's the range for early morning sun?
 
+<!--
+	https://model.georgia.org/localsite/map/#show=wastewater&state=GA&cat=4952
+
+
+	https://www.source.co
+-->
+
 ## Help us Create Kits for Kids
 
 **Cool Light Evaporation (CLEave) Kits for Kids** could use birefringent materials (crystals) with a [faraday rotator](https://youtu.be/17Y82tJDk2o?si=NTd8OrYJcbRvYvld&t=488) for polarizing light.
 
 During cold SuperThermal Evaporation (via the Photomolecular Effect), photons **cleave off clusters of water molecules**
 
-Gang Chen's team at MIT figured out in 2021. [Learn more](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
+[Gang Chen's team at MIT](https://meche.mit.edu/people/faculty/gchen2%40mit.edu) figured out in 2021. [Learn more](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
 
 ## Light Nanometres
 
