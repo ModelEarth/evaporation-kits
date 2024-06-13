@@ -1,8 +1,15 @@
 ## Photomolecular Effect - Moving Oceans
 
+
+<div class="floatRight hideMobile" style="margin-bottom:0px;max-width:320px">
+    <div>
+      <a href="https://youtu.be/17Y82tJDk2o?si=NTd8OrYJcbRvYvld&t=488" target="_parent"><img id="right-image" src="img/MIT-Evaporating-01-press.jpg" style="width:100%;border-radius:20px;"></a>
+    </div>
+</div>
+
 **MIT News:** [Water Evaporate WITHOUT Heat](https://youtu.be/17Y82tJDk2o?si=NTd8OrYJcbRvYvld&t=488)
 
-SuperThermal Evaporation - Moving water with light and wind will allow us to generating bundant clean water. Using green polarized light we can dry equipment without heat and blowers, and we can dry ourselves and our towels after showering. Most significantly, we can reduce ocean levels by building-up ice on Antarctica.
+SuperThermal Evaporation - Moving water with light and wind has the potential to generate bundant clean water.  Using green polarized light we can dry equipment without heat and blowers, and we can dry ourselves and our towels after showering. Most significantly, we can reduce ocean levels by building-up ice on Antarctica.
 
 ### Questions:
 
@@ -16,7 +23,7 @@ SuperThermal Evaporation - Moving water with light and wind will allow us to gen
 
 ## Help us Create Kits for Kids
 
-**Cool Light Evaporation (CLEave) Kits for Kids** could use birefringent materials (crystals) with a faraday rotator for polarized light.
+**Cool Light Evaporation (CLEave) Kits for Kids** could use birefringent materials (crystals) with a [faraday rotator](https://youtu.be/17Y82tJDk2o?si=NTd8OrYJcbRvYvld&t=488) for polarizing light.
 
 During cold SuperThermal Evaporation (via the Photomolecular Effect), photons **cleave off clusters of water molecules**
 
