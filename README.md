@@ -38,17 +38,17 @@ During cold SuperThermal Evaporation (via the Photomolecular Effect), photons **
 
 ## Light Nanometres
 
-**nanometres (nm)**
-Ultraviolet (UV) from 200 to 400 nm - Source of skin cancer
+**Nanometres (nm)**
+Ultraviolet (UV) from 200 to 400 nm - Invisible. Source of skin cancer at noon
 Blue from 400 to 500 nm
 Green from 500 to 600 nm
 Red from 600 to 700 nm
 Near infrared (NIR) from 700 to 800 nm
-Infrared (IR) from 800 to 1200 nm - Longer wavelength - Polarized light in mornings and evenings
+Infrared (IR) from 800 to 1200 nm - Longer wavelength - Polarized with visible red and orange light in mornings and evenings
 
-[Polarized Light Therapy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7065605/) - Polarized light penetrates further into tissues. Sunlight exposure, especially in the morning when UV radiation is less intense, helps the body produce vitamin D. Adequate levels of vitamin D are associated with a lower risk of several cancers, including colorectal and breast cancer.
+[Polarized Light Therapy](https://www.sciencedirect.com/science/article/abs/pii/S0378512218303888) - Polarized light penetrates further into tissues. Sunlight exposure, especially in the morning when UV radiation is less intense, helps the body produce vitamin D. Adequate levels of vitamin D are associated with a lower risk of several cancers, including colorectal and breast cancer. Polarized light also has an [anti‐inflammatory effect](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7065605/).
 
-Early morning and evening light is strongly polarized since it reaches the surface at a shallow 90-degree angle from the original path. In addition, the longer path through the atmosphere causes more scattering and greater polarization during which the rotational state of the molecules sync via [Raman Scattering](https://en.wikipedia.org/wiki/Raman_scattering). &nbsp;More red and orange occur in the morning due to greater atmospheric scattering of the shorter blue wavelengths. At noon a higher proportion of short wavelength blue light makes it through narrow atmosphere distance, resulting in a full spectrum white appearance.
+Early morning and evening light is strongly polarized since it reaches the earth's surface at a shallow 90-degree angle from the original path. In addition, the longer path through the atmosphere causes more scattering and greater polarization as photon rotation syncs during transfering of energy to water molecules via [Raman Scattering](https://en.wikipedia.org/wiki/Raman_scattering). &nbsp;More red and orange occur in the morning due to the greater atmospheric scattering of the shorter blue wavelengths. At noon a higher proportion of short wavelength blue light makes it through narrow atmosphere distance, resulting in a full spectrum white appearance.
 
 
 ## Capturing water using a Metal-Organic Framework (MOF)
