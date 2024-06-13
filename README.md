@@ -3,13 +3,13 @@
 
 <div class="floatRight hideMobile" style="margin-bottom:0px;max-width:320px">
     <div>
-      <a href="https://youtu.be/17Y82tJDk2o?si=NTd8OrYJcbRvYvld&t=488" target="_parent"><img id="right-image" src="img/MIT-Evaporating-01-press.jpg" style="width:100%;border-radius:20px;"></a>
+      <a href="https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031" target="_parent"><img id="right-image" src="img/MIT-Evaporating-01-press.jpg" style="width:100%;border-radius:20px;"></a>
     </div>
 </div>
 
 **MIT News:** [Water Evaporation WITHOUT Heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
 
-SuperThermal Evaporation - Moving water with light and wind has the potential to generate bundant clean water.  Using green polarized light we can dry equipment without heat and blowers, and we can dry ourselves and our towels after showering. Most significantly, we can reduce ocean levels by building-up ice on Antarctica.
+Moving water without heat by using green polarized light and wind has the potential to generate bundant clean water.  Cold SuperThermal Evaporation can dry equipment without heat and blowers, and we can dry ourselves and our towels after showering. Most significantly, we could reduce ocean levels by building-up ice on Antarctica.
 
 ### Questions:
 
