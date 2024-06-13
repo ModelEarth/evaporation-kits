@@ -13,13 +13,13 @@ Creating water vapor using cool green polarized light has the potential to gener
 
 ### Questions:
 
-1. Can the green light beams be reflected across distances, and from space?
+1. Can polarized green light beams be sent across distances, including from space?
 
-2. What techniques can be used to increase the water surface area exposed to the polarized light?
+2. What techniques can be used to increase the water surface area exposed to the polarized light? &nbsp;Overlapping layers of glass?
 
-3. At what levels of intensity are there safety issues with the green polarized light?
+3. At what levels of intensity are there safety issues with the green polarized light? &nbsp;Are there health benefits from light?
 
-4. What's the nanometres range for early morning sun?
+4. What's the nanometres range for early morning and evening sun? (see below)
 
 <!--
 	https://model.georgia.org/localsite/map/#show=wastewater&state=GA&cat=4952
@@ -39,12 +39,12 @@ During cold SuperThermal Evaporation (via the Photomolecular Effect), photons **
 ## Light Nanometres
 
 **Nanometres (nm)**
-Ultraviolet (UV) from 200 to 400 nm - Invisible. Source of skin cancer at noon
+Ultraviolet (UV) from 200 to 400 nm - Short wavelength, Invisible. Source of skin cancer at noon.
 Blue from 400 to 500 nm
 Green from 500 to 600 nm
 Red from 600 to 700 nm
 Near infrared (NIR) from 700 to 800 nm
-Infrared (IR) from 800 to 1200 nm - Longer wavelength - Polarized with visible red and orange light in mornings and evenings
+Infrared (IR) from 800 to 1200 nm - Longer wavelength, Invisible.<br>- Morning and evening sun is more polarized, with scattering blocking out colors other than red and orange (the long wavelengths).
 
 [Polarized Light Therapy](https://www.sciencedirect.com/science/article/abs/pii/S0378512218303888) - Polarized light penetrates further into tissues. Sunlight exposure, especially in the morning when UV radiation is less intense, helps the body produce vitamin D. Adequate levels of vitamin D are associated with a lower risk of several cancers, including colorectal and breast cancer. Polarized light also has an [anti‐inflammatory effect](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7065605/).
 
