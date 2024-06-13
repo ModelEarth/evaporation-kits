@@ -9,7 +9,7 @@
 
 **MIT News:** [Water Evaporation WITHOUT Heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
 
-Moving water without heat, by evaporating with green polarized light, has the potential to generate bundant clean water.  Cold SuperThermal Evaporation can dry equipment without heat and blowers, and we can dry ourselves and our towels after showering. Most significantly, we could reduce ocean levels by building-up ice on Antarctica.
+Moving water cool light (by turning it into water vapor using green polarized light) has the potential to generate abundant clean water.  Cold SuperThermal Evaporation can dry equipment without heat and blowers, and we can dry ourselves and our towels after showering. Most significantly, we could reduce ocean levels by building-up ice on Antarctica.
 
 ### Questions:
 
