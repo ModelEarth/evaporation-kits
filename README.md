@@ -81,19 +81,19 @@ Clouds absorb more sunlight than conventional physics predicts possible.
 
 1. Bright, cold LED lights - We use LED lights to avoid heat from sun.
 
-2. Roll of green plastic to filter the light.
+2. Roll of green plastic to filter the light. Additional colors.
 
 3. Roll of polarizing film: (Also referred to as a "polarizing sheets" and "polarizing filter sheets").
 
 4. [14"x52" Reflective Self Adhesive Mirror](https://www.amazon.com/Vailubiri-Reflective-Adhesive-Furniture-Decoration/dp/B0CLGV9F2S/ref=sr_1_10)
 
-5. 14"x52" shallow pan for water.
+5. Two 14"x52" shallow pans for water.
 
 **Experiment:**
 
 Surround the LED lights with mirrors and focus the polarized green light onto surface of water at 45 degrees. Observe if visible mist occurs.
 
-How much LED light energy is required to evaporate one cup of water from the surface of the pan in one hour?
+How much LED light energy is required to evaporate one cup of water from the surface of the pan in one hour? Compare change with other pan placed beyond the light.
 
-Compare with and without polarization sheet and green light filter.
+Compare with and without polarization sheet and green light filter and with other filter colors.
 
