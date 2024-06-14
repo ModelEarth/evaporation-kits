@@ -53,7 +53,7 @@ Early morning and evening light is strongly polarized since it reaches the earth
 
 ## Capturing water using a Metal-Organic Framework (MOF)
 
-Discovered at MIT in 2021, water is captured from air using porous Metal-Organic Frameworks (MOF) as tiny aluminum-based rods. In March 2023, a 50% efficiency gain was made by adding two carbon atoms as a linker extension.
+Discovered at MIT in 2021, water is captured from air using porous Metal-Organic Frameworks (MOFs) as tiny aluminum-based rods. In March 2023, a 50% efficiency gain was made by adding two carbon atoms as a linker extension.
 
 Does the following article give us liters-per-day to compare with Source.co solar panels?
 [2023 - MOF 50% efficiency gain](https://techxplore.com/news/2023-03-air-metal-organic-framework.html)
@@ -67,7 +67,7 @@ Source.co uses solar panels to condense water from air. Used in over 50 countrie
 
 <!--Combining GreenLight evaporation with MOF water capture and Solar Panels for heat and airflow-->
 
-GreenLight Kits for Kids using cool green polarized light could further improve MOF water trapping by increasing the available water vapor. Adding heat and airflow using solar energy could further enhance both the GreenLight evaporation process and MOF water capture. From what I've read previously, Water capture in porous MOF material occurs during the cool of the night. It uses the heat of the day to release the water.
+Evapration using cool green polarized light could further improve MOF water trapping by increasing the available water vapor. Adding heat and airflow using solar energy could further enhance both the GreenLight evaporation process and MOF water capture. Water capture in porous MOF material occurs during the cool of the night. The heat of the day  releases the captured water.
 
 ## Photomolecular Effect Details
 
