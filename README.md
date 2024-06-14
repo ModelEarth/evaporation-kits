@@ -30,7 +30,7 @@ Creating water vapor using cool green polarized light has the potential to gener
 
 ## Help us Create Kits for Kids
 
-**Cool Light Evaporation (CLEave) Kits for Kids** could use birefringent materials (crystals) with a [faraday rotator](https://youtu.be/17Y82tJDk2o?si=NTd8OrYJcbRvYvld&t=488) for polarizing light.
+**Cool Light Evaporation (CLEave) Kits for Kids** could use birefringent materials (crystals) with a [faraday rotator](https://youtu.be/17Y82tJDk2o?si=NTd8OrYJcbRvYvld&t=488) for polarizing light. As a simple alternative, we've listed affordable materials below for a science experiment using rolls of green plastic and polarizing film.
 
 During cold SuperThermal Evaporation (via the Photomolecular Effect), photons **cleave off clusters of water molecules**
 
@@ -53,7 +53,7 @@ Early morning and evening light is strongly polarized since it reaches the earth
 
 ## Capturing water using a Metal-Organic Framework (MOF)
 
-Discovered at MIT in 2021, water is captured from air using tiny aluminum rods containing a porous Metal-Organic Frameworks (MOFs). In March 2023, a 50% efficiency gain was made by adding two carbon atoms as a linker extension.
+Discovered at MIT in 2021, water is captured from air using tiny aluminum rods containing a porous Metal-Organic Framework (MOF). In&nbsp;March 2023, a 50% efficiency gain was made by adding two carbon atoms as a linker extension.
 
 Does the following article give us liters-per-day to compare with Source.co solar panels?
 [2023 - MOF 50% efficiency gain](https://techxplore.com/news/2023-03-air-metal-organic-framework.html)
