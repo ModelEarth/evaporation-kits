@@ -53,7 +53,7 @@ Early morning and evening light is strongly polarized since it reaches the earth
 
 ## Capturing water using a Metal-Organic Framework (MOF)
 
-Discovered at MIT in 2021, water is captured from air using porous Metal-Organic Frameworks (MOFs) as tiny aluminum-based rods. In March 2023, a 50% efficiency gain was made by adding two carbon atoms as a linker extension.
+Discovered at MIT in 2021, water is captured from air using tiny aluminum rods containing a porous Metal-Organic Frameworks (MOFs). In March 2023, a 50% efficiency gain was made by adding two carbon atoms as a linker extension.
 
 Does the following article give us liters-per-day to compare with Source.co solar panels?
 [2023 - MOF 50% efficiency gain](https://techxplore.com/news/2023-03-air-metal-organic-framework.html)
