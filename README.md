@@ -33,7 +33,7 @@ With the optimal green color, 45° angle and polarization, “the evaporation ra
 
 ## Help us Create Kits for Kids
 
-**Cool Light Evaporation (CLEave) Kits for Kids** could use birefringent materials (crystals) with a [faraday rotator](https://youtu.be/17Y82tJDk2o?si=NTd8OrYJcbRvYvld&t=488) for polarizing light. As a simple alternative, we've listed affordable materials below for a science experiment using rolls of green plastic and polarizing film.
+**Cool Light Evaporation (CLEave)** STEAM Kits for Kids could use birefringent materials (crystals) with a [faraday rotator](https://youtu.be/17Y82tJDk2o?si=NTd8OrYJcbRvYvld&t=488) or polarizing film. We've listed affordable materials below for a science experiment using rolls of green plastic and polarizing film.
 
 During cold SuperThermal Evaporation (via the Photomolecular Effect), photons **cleave off clusters of water molecules**
 
