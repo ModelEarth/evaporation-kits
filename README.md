@@ -1,13 +1,15 @@
 ## Photomolecular Effect - Moving Oceans
 
 
-<div class="floatRight hideMobile" style="margin-bottom:0px;max-width:320px">
+<div class="floatRight hideMobile" style="margin-bottom:30px;max-width:320px">
       <a href="https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031" target="_parent"><img id="right-image" src="img/MIT-Evaporating-01-press.jpg" style="width:100%;border-radius:20px;"></a>
 </div>
 
 **MIT News:** [Water Evaporation WITHOUT Heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
 
 Creating water vapor using cool green polarized light has the potential to generate abundant clean water.  Cold superthermal evaporation can dry equipment without heat and blowers. We can speed drying time for towels and clothes without heating rooms. Most significantly, we could reduce ocean levels by building-up ice on Antarctica.
+
+During cold super-thermal evaporation via the Photomolecular Effect, photons **cleave-off clusters of water molecules**.
 
 With the optimal green color, 45° angle and polarization, “the evaporation rate is four times the thermal limit. The likeliest first applications will come in the areas of solar desalinization systems or other industrial drying processes. Drying consumes 20% of all industrial energy usage.” - [Guangxin Lv](https://news.mit.edu/2024/how-light-can-vaporize-water-without-heat-0423)
 
@@ -18,15 +20,7 @@ MIT's Abdul Latif Jameel Water and Food Systems Lab (J-WAFS) awarded a seed gran
 Upcoming Satellite: NASA and the Indian Space Research Organisation  
 (The wavelength of radar is about 5 centimeters, which is 50 million nanometers)
 
-### Questions:
 
-1. Can polarized green light beams be sent across distances, including from space?
-
-2. What techniques can be used to increase the water surface area exposed to the polarized light? &nbsp;Overlapping layers of glass?
-
-3. At what levels of intensity are there safety issues with the green polarized light? &nbsp;Are there health benefits from polarized light?
-
-4. What's the nanometres range for early morning and evening sun? (see below)
 
 <!--
 	https://model.georgia.org/localsite/map/#show=wastewater&state=GA&cat=4952
@@ -35,13 +29,25 @@ Upcoming Satellite: NASA and the Indian Space Research Organisation
 	https://www.source.co
 -->
 
-## Help us Create Kits for Kids
+## Help us create Kits for Kids (K-12)
 
-**Cool Light Evaporation (CLEave)** STEAM Kits for Kids could use birefringent materials (crystals) with a [faraday rotator](https://youtu.be/17Y82tJDk2o?si=NTd8OrYJcbRvYvld&t=488) or polarizing film. We've listed affordable materials below for a science experiment using rolls of green plastic and polarizing film.
+**Cool Light Evaporation Artistic Visualization Experiments (CLEAVE)** 
+Using installments of cool light to produce steam as we explore the art of science.
 
-During cold SuperThermal Evaporation (via the Photomolecular Effect), photons **cleave off clusters of water molecules**
+We've listed affordable materials below, like green plastic and polarizing film, for K-12 science experiments. STEAM experiments could also use birefringent materials (crystals) with a [faraday rotator](https://youtu.be/17Y82tJDk2o?si=NTd8OrYJcbRvYvld&t=488).
 
-[Gang Chen's team at MIT](https://meche.mit.edu/people/faculty/gchen2%40mit.edu) figured out in 2021. [Learn more](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
+[Gang Chen's team at MIT](https://meche.mit.edu/people/faculty/gchen2%40mit.edu) initially noticed the cool photomolecular effect in 2021. [Learn more](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
+
+### Questions:
+
+1. What techniques can be used to increase the water surface area exposed to the polarized light? &nbsp;Overlapping layers of glass?
+
+2. At what levels of intensity are there safety issues with the green polarized light? &nbsp;Are there health benefits from polarized light?
+
+3. Can polarized green light beams be sent across distances, including from space?
+
+4. What's the nanometres range for early morning and evening sun? (see below)
+
 
 ## Light Nanometres
 
