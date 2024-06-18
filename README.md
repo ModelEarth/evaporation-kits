@@ -11,6 +11,11 @@ Creating water vapor using cool green polarized light has the potential to gener
 
 With the optimal green color, 45° angle and polarization, “the evaporation rate is four times the thermal limit. The likeliest first applications will come in the areas of solar desalinization systems or other industrial drying processes. Drying consumes 20% of all industrial energy usage.” - [Guangxin Lv](https://news.mit.edu/2024/how-light-can-vaporize-water-without-heat-0423)
 
+[MIT Study: Solar Photomolecular Desalination](https://jwafs.mit.edu/projects/2022/solar-photomolecular-desalination) &mdash; [Results April 2024](https://www.pnas.org/doi/10.1073/pnas.2320844121)
+MIT's Abdul Latif Jameel Water and Food Systems Lab (J-WAFS) awarded a seed grant in 2022<!-- at $75,000 per year for two years-->. 
+
+[JPL: Tracking movement in ground level as aquifers are depleted](https://www.jpl.nasa.gov/edu/news/2024/4/18/tracking-tiny-movements-means-big-impacts-for-earth-science/)
+Upcoming Satellite: NASA and the Indian Space Research Organisation  
 
 ### Questions:
 
