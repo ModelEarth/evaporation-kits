@@ -16,6 +16,7 @@ MIT's Abdul Latif Jameel Water and Food Systems Lab (J-WAFS) awarded a seed gran
 
 [JPL: Tracking movement in ground level as aquifers are depleted](https://www.jpl.nasa.gov/edu/news/2024/4/18/tracking-tiny-movements-means-big-impacts-for-earth-science/)
 Upcoming Satellite: NASA and the Indian Space Research Organisation  
+(The wavelength of radar is about 5 centimeters, which is 50 million nanometers)
 
 ### Questions:
 
