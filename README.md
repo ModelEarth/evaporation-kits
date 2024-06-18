@@ -7,7 +7,7 @@
 
 **MIT News:** [Water Evaporation WITHOUT Heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
 
-Creating water vapor using cool green polarized light has the potential to generate abundant clean water.  Cold SuperThermal Evaporation can dry equipment without heat and blowers. We could dry ourselves and our towels after showering. Most significantly, we could reduce ocean levels by building-up ice on Antarctica.
+Creating water vapor using cool green polarized light has the potential to generate abundant clean water.  Cold superthermal evaporation can dry equipment without heat and blowers. We can speed drying time for towels and clothes without heating rooms. Most significantly, we could reduce ocean levels by building-up ice on Antarctica.
 
 With the optimal green color, 45° angle and polarization, “the evaporation rate is four times the thermal limit. The likeliest first applications will come in the areas of solar desalinization systems or other industrial drying processes. Drying consumes 20% of all industrial energy usage.” - [Guangxin Lv](https://news.mit.edu/2024/how-light-can-vaporize-water-without-heat-0423)
 
