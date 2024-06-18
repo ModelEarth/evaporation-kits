@@ -2,9 +2,7 @@
 
 
 <div class="floatRight hideMobile" style="margin-bottom:0px;max-width:320px">
-    <div>
       <a href="https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031" target="_parent"><img id="right-image" src="img/MIT-Evaporating-01-press.jpg" style="width:100%;border-radius:20px;"></a>
-    </div>
 </div>
 
 **MIT News:** [Water Evaporation WITHOUT Heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
@@ -20,7 +18,7 @@ With the optimal green color, 45° angle and polarization, “the evaporation ra
 
 2. What techniques can be used to increase the water surface area exposed to the polarized light? &nbsp;Overlapping layers of glass?
 
-3. At what levels of intensity are there safety issues with the green polarized light? &nbsp;Are there health benefits from light?
+3. At what levels of intensity are there safety issues with the green polarized light? &nbsp;Are there health benefits from polarized light?
 
 4. What's the nanometres range for early morning and evening sun? (see below)
 
