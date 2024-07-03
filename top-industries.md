@@ -82,7 +82,7 @@ Source: [ChatGPT](https://chatgpt.com/share/c08c2eac-a02b-49a3-96b0-0dcfcc38a250
 
 # Aerial wells - Piles of Stones for Condensing Water (400 BCE)
 
-The pipes at the pyramids in Crimea were enough to carry 14,400 gallons per pyramid per day, but our modern science only predicts a max of 520 gallons -- prior to considering the use of superthermal evaporation and/or uses focuse on water purification from incoming mountain springs, and the complexes possible use in industrial processes like the drying of fish, cloth, paper, and pottery containers for shipping.
+The pipes at the pyramids in Crimea were enough to carry 14,400 gallons per pyramid per day, but our modern science only predicts a max of 520 gallons -- prior to considering the use of superthermal evaporation and/or use for water purification from incoming mountain springs, and use in industrial processes like the drying of fish, cloth, paper, and pottery containers for shipping.
 
 [PYRAMID POWER DRAWS WATER FROM AIR](https://www.sun-sentinel.com/1991/12/29/pyramid-power-draws-water-from-air/)
 
