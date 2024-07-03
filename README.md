@@ -80,7 +80,7 @@ Source.co uses solar panels to condense water from air. Used in over 50 countrie
 
 <!--Combining GreenLight evaporation with MOF water capture and Solar Panels for heat and airflow-->
 
-Evapration using cool green polarized light could further improve Metal-Organic Framework water trapping by increasing the available water vapor. Adding heat and airflow using solar energy could further enhance both the GreenLight evaporation process and MOF water capture. Water is captured in porous MOF material during the cool of the night. The heat of the day  releases the captured water.
+Evaporation using cool green polarized light could further improve Metal-Organic Framework water trapping by increasing the available water vapor. Adding heat and airflow using solar energy could further enhance both the GreenLight evaporation process and MOF water capture. Water is captured in porous MOF material during the cool of the night. The heat of the day  releases the captured water.
 
 ## Photomolecular Effect Details
 
