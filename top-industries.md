@@ -1,54 +1,3 @@
-# Top 10 Energy-Intensive Industries for Drying Processes
-
-Drying uses 205 of energy used by industries. These top 10 industries use the most energy for drying processes, with the highest energy usage listed first. Each industry is accompanied by its main product and the corresponding HS code.
-
-## 1. Pulp and Paper Industry
-- **Main Product**: Paper and paperboard
-- **HS Code**: 4802 (Uncoated paper and paperboard)
-
-## 2. Textile Industry
-- **Main Product**: Woven fabrics and yarn
-- **HS Code**: 5407 (Woven fabrics of synthetic filament yarn)
-
-## 3. Food Processing Industry
-- **Main Product**: Dried fruits and vegetables
-- **HS Code**: 2005 (Other vegetables prepared or preserved otherwise than by vinegar or acetic acid)
-
-## 4. Wood Processing Industry
-- **Main Product**: Sawn or chipped wood
-- **HS Code**: 4407 (Wood sawn or chipped lengthwise)
-
-## 5. Ceramics Industry
-- **Main Product**: Ceramic tiles
-- **HS Code**: 6907 (Unglazed ceramic flags and paving, hearth or wall tiles)
-
-## 6. Chemical Industry
-- **Main Product**: Ammonia
-- **HS Code**: 2814 (Ammonia, anhydrous or in aqueous solution)
-
-## 7. Agricultural Products Processing
-- **Main Product**: Grains and seeds
-- **HS Code**: 1006 (Rice)
-
-## 8. Pharmaceutical Industry
-- **Main Product**: Medicinal drugs
-- **HS Code**: 3004 (Medicaments consisting of mixed or unmixed products)
-
-## 9. Glass Industry
-- **Main Product**: Safety glass
-- **HS Code**: 7007 (Safety glass, consisting of toughened (tempered) or laminated glass)
-
-## 10. Rubber and Plastics Industry
-- **Main Product**: Rubber tires
-- **HS Code**: 4011 (New pneumatic tires, of rubber)
-
-These industries are known for their high energy consumption during the drying phase of their manufacturing processes. The list reflects a broad spectrum of industries, from textiles to food processing, each with a critical product that undergoes extensive drying.
-
-
-https://chatgpt.com/share/c08c2eac-a02b-49a3-96b0-0dcfcc38a250
-
-
-
 # Energy Consumption in Drying Processes by Industry
 
 ## Overview
@@ -128,6 +77,7 @@ These values are approximations based on available data and industry reports. Fo
 
 - IEA — Industry - Energy System - IEA - iea.org
 
+Source: [ChatGPT](https://chatgpt.com/share/c08c2eac-a02b-49a3-96b0-0dcfcc38a250)
 
 
 # Aerial wells - Piles of Stones for Condensing Water (400 BCE)
