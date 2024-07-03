@@ -88,7 +88,28 @@ Evapration using cool green polarized light could further improve Metal-Organic 
 
 The effect is strongest when polarized green light hits the water surface at an angle of 45 degrees. (the color dependence is not yet accounted for.)
 
-Clouds absorb more sunlight than conventional physics predicts possible. 
+Clouds absorb more sunlight than conventional physics predicts possible.
+
+## Noteable Experimental Setup
+
+## Hydrogel
+
+### Material Composition
+The hydrogel is a JELL-O-like matrix primarily composed of water within a sponge-like lattice of thin membranes. This structure allows it to hold a significant amount of water and provides a large surface area for light interaction. Although neither water nor the hydrogel material absorbs much light individually, together they become strong absorbers, enhancing evaporation rates by efficiently harnessing photon energy.
+
+### Hydrogel Alternative: [Water Gel Crystals](https://en.wikipedia.org/wiki/Water_crystal_gel)
+Orbeez balls or Water Gel Crystals, superabsorbent polymer beads, share properties with hydrogels and might be used in light-induced evaporation experiments. However, key differences exist between Orbeez and the hydrogel used in the MIT experiment.
+
+## Similarities Between Orbeez and Hydrogels
+### Water Absorption
+Both Orbeez and hydrogels can absorb and retain large amounts of water relative to their size. Orbeez, like hydrogels, possess a gel-like structure composed mostly of water, providing a similar interaction surface for water evaporation experiments.
+
+### Differences and Considerations
+Orbeez are made from sodium polyacrylate, while the MIT hydrogel consists of a polymer matrix optimized for light absorption and interaction, enhancing the photomolecular effect. The MIT hydrogel is engineered to maximize absorption of specific wavelengths, particularly green light, to achieve the photomolecular effect. Orbeez may not have these optimized absorption characteristics, potentially reducing the efficiency of light-induced evaporation. The MIT hydrogel was part of a highly controlled setup to measure light's effects on evaporation. Using Orbeez would require ensuring they are similarly shielded from external heat sources and possess suitable light absorption properties to replicate the same conditions.
+
+## Potential for Substitution
+While Orbeez could be used in preliminary experiments to observe general light-induced evaporation, achieving the same results as the MIT study would require matching the light absorption properties of the MIT hydrogel and ensuring a controlled experimental setup that isolates light effects from extraneous heat sources.
+
 
 ## Content of Kit
 
