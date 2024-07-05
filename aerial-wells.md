@@ -6,24 +6,24 @@ The pipes at the 13 Greek Pyramids in Crimea were large enough to carry 14,400 g
 <span class="floatRight">
 	<a href="https://wikidwelling.fandom.com/wiki/Air_well_(condenser)" target="_parent"><img id="right-image" src="img/aerial-wells/zibold-condenser-model.png" style="width:100%;max-width:400px;border-radius:20px;"></a><!-- https://u.cs.biu.ac.il/~trakhta/JAE06.pdf -->
 <br><span style="font-size:14px;line-height:16px;">Model of failed Zibold condenser (1912)<br>
-Prior experiments did not include a dome for shade,<br>
-nor a wind-redirecting process to direct moist ocean air.</span><br><br>
+Prior experiments did not include a dome for directing airflow,<br>
+nor a wind-redirecting line of sails to corral moist ocean air.</span><br><br>
 
 
 <h4>Hypothetical means to amplify ancient water capture (2024)</h4>
 
-1. Build a dome structure over the smooth rock pile. Similar to the round surface of MIT hydrogel polymer, the round shape of the rocks might aid in cleaving H20 in small sheet to amplify the creation of water vapor on the tops of the rocks.<br><br>Evaporation reduces surface temperature. Could polarized sunlight aimed at the top of the rocks under the shade of a dome increase evaporative-cooling of the upper rock surfaces exposed to the incoming ocean wind to significantly increase condensation of the bottom of the rocks? What coatings could be applied to the rock surfaces to further enhance evaporation using polarized light?
+1. Build a dome structure over the smooth rock pile. Similar to the round surface of MIT hydrogel polymer, the round shape of the rocks might aid in cleaving H20 in small sheets of molecules to amplify the creation of water vapor on the tops of the rocks.
 
-2. Extend a wind-redirecting structure from the ocean up the hillside using boat-sail fabric to flow large quantities of moist air into the moisture capture domes.
+2. Extend a wind-redirecting structure from the ocean up the hillside using boat-sail fabric to flow large quantities of moist air into the moisture capture domes.<br><br>Evaporation reduces surface temperature. Could polarized sunlight aimed at the top of the rocks under the shade of a dome increase evaporative-cooling of the upper rock surfaces exposed to the incoming ocean wind to significantly increase condensation of the bottom of the rocks?
 
-3. From an opening at the top of each dome, hit the rocks with polarized green light at a 45 degree angle. (Calcualate the increase in surface area using the 45 degree edge of pyramid-shaped structures.)
+3. From an opening at the top of each dome, hit the rocks with polarized green light at a 45 degree angle. Calcualate the increase in available surface area based on the size of stones along the 45 degree edge of pyramid-shaped structures.<br><br>What coatings could be applied to the rock surfaces to further enhance evaporation using polarized light?
 </span>
 
 ## Unsuccessful effort from 1991
 
-[PYRAMID POWER DRAWS WATER FROM AIR](https://www.sun-sentinel.com/1991/12/29/pyramid-power-draws-water-from-air/)
+SOURCE: [PYRAMID POWER DRAWS WATER FROM AIR](https://www.sun-sentinel.com/1991/12/29/pyramid-power-draws-water-from-air/)
 
-A group of Seattle engineers think carefully designed modern pyramids of loose rock could in a sense squeeze water from stones.
+A group of Seattle engineers thought carefully designed modern pyramids of loose rock could in a sense squeeze water from stones.
 
 Desert mice use the technique. So did the ancient Greeks.
 
