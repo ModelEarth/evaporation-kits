@@ -14,7 +14,7 @@ nor a wind-redirecting line of sails to corral moist ocean air.</span><br><br>
 
 1. Build a dome structure over the smooth rock pile. Similar to the round surface of MIT hydrogel polymer, the round shape of the rocks might aid in cleaving H20 in small sheets of molecules to amplify the creation of water vapor on the tops of the rocks.
 
-2. Extend a wind-redirecting structure from the ocean up the hillside using boat-sail fabric to flow large quantities of moist air into the moisture capture domes.<br><br>Evaporation reduces surface temperature. Could polarized sunlight aimed at the top of the rocks under the shade of a dome increase evaporative-cooling of the upper rock surfaces exposed to the incoming ocean wind to significantly increase condensation of the bottom of the rocks?
+2. Extend a wind-redirecting structure from the ocean up the hillside using boat-sail fabric to flow large quantities of moist air into the moisture capture domes. Design the dome with two layers. The upper layer would redirect airflow down into the base and up through the cold rocks before existing the dome.<br><br>Evaporation reduces surface temperature. Could polarized sunlight aimed at the top of the rocks under the shade of a dome increase evaporative-cooling of the upper rock surfaces exposed to the incoming ocean wind to significantly increase condensation on the bottom of the rocks?
 
 3. From an opening at the top of each dome, hit the rocks with polarized green light at a 45 degree angle. Calcualate the increase in available surface area based on the size of stones along the 45 degree edge of pyramid-shaped structures.<br><br>What coatings could be applied to the rock surfaces to further enhance evaporation using polarized light?
 </span>
