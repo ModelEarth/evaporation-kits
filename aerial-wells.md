@@ -1,6 +1,6 @@
 # Aerial wells - Piles of Stones for Condensing Water (400 BCE)
 
-The pipes at the 13 Greek Pyramids in Crimea were large enough to carry 14,400 gallons per pyramid per day, but until recently our modern science only predicts a max of 520 gallons if the pyramids were used for water capture. Was there a means to include superthermal evaporation if these were ancient aerial wells?  Were the Crimean structures used for water purification from incoming mountain streams. Can we find evidence of superthermal evaporation use in ancient industrial processes, like the drying of fish, cloth, paper, and pottery containers for shipping?
+The pipes at the 13 Greek Pyramids in Crimea were large enough to carry 14,400 gallons per pyramid per day, but until recently our modern science only predicted a max of 520 gallons if the pyramids were used for water capture. Was there a means to include superthermal evaporation if these were ancient aerial wells?  Were the Crimean structures also used for water purification from incoming mountain streams. Can we find evidence of superthermal evaporation usage in ancient industrial processes, like the drying of fish, cloth, paper, and pottery containers for shipping?
 
 
 <span class="floatRight">
