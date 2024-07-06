@@ -48,7 +48,7 @@ The condensation depends on daily heating and cooling by the sun. The resulting 
 
 Joining Vila are Boeing engineer Frederic Henzi, retired University of Washington civil engineering professor Ronald Terrel, and business manager Harold Hopper. Richard Corlett, chairman of mechanical engineering at the University of Washington, is a consultant.
 
-This group has received a $50,000 grant from the federal government’s National Science Foundation for preliminary investigation and is seeking up to $250,000 more for detailed computer simulations. The third phase will be finding a commercial backer to build an experimental pyramid of loose rock, estimated to cost $63,200.
+The group received a $50,000 grant from the federal government’s National Science Foundation for preliminary investigation and is sought up to $250,000 more for detailed computer simulations. The third phase would have involved a commercial backer to build an experimental pyramid of loose rock, estimated to cost $63,200 in 1991.
 
 Vila stumbled across the idea while investigating runway construction for Boeing during the Vietnam War. Road engineers in the southwestern U.S. encountered pavement heave from moisture in the middle of deserts, and traced the baffling problem to condensation of water in the road aggregate. They dubbed it “hydrogenesis.”
 
