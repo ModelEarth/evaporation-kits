@@ -1,10 +1,16 @@
-# Aerial wells - Piles of Stones for Condensing Water (400 BCE)
+[Evaporation using cold green polarized light](../)
+# Aerial wells - Piles of Stones for Condensing Water? (500 BCE)
 
-The pipes at the 13 Greek Pyramids in Crimea were large enough to carry 14,400 gallons per pyramid per day, but until recently our modern science only predicted a max of 520 gallons if the pyramids were used for water capture. Was there a means to include superthermal evaporation if these were ancient aerial wells?  Were the Crimean structures also used for water purification from incoming mountain streams. Can we find evidence of superthermal evaporation usage in ancient industrial processes, like the drying of fish, cloth, paper, and pottery containers for shipping?
+<!--
+Latest update: We've added the Zibold stone condenser experiment (1912), along with a new hypothesis for a large wind-sail to direct moisture up from the ocean into a covering dome - which could have used an outer layer of wood and sail-cloth to loop the wind-flow back down into the bottom of the stone pile before the airflow exited straight up through the top opening. The updraft may have also been useful for communicating with smoke signals. <a href="#windflow">Aerial well windflow details</a>.<br><br>
+-->
 
+As bazare as it sounds, we have to ask: were family burial structures used for water purification?  The pipes at the 13 Greek Pyramids in Crimea were large enough to carry 14,400 gallons per pyramid per day. Was it simply water from adjacent mountain springs supplying an urban population?
+
+Modern science predicts a maximum of 520 gallons/day if the stone piles were used for water capture. If these ancient structures were indeed aerial wells, had there been a means to include superthermal evaporation to increase output by several factors?  Could superthermal evaporation have been used in ancient industrial processes for the drying of fish, cloth, paper, and pottery containers for shipping? Around 440 BCE, Theodosia became a significant grain-exporting port, supplying Athens and other Greek city-states with wheat.
 
 <span class="floatRight">
-	<a href="https://wikidwelling.fandom.com/wiki/Air_well_(condenser)" target="_parent"><img id="right-image" src="img/aerial-wells/zibold-condenser-model.png" style="width:100%;max-width:400px;border-radius:20px;"></a><!-- https://u.cs.biu.ac.il/~trakhta/JAE06.pdf -->
+	<a href="https://wikidwelling.fandom.com/wiki/Air_well_(condenser)" target="_parent"><img id="right-image" src="img/zibold-condenser-model.png" style="width:100%;max-width:400px;border-radius:20px;"></a><!-- https://u.cs.biu.ac.il/~trakhta/JAE06.pdf -->
 <br><span style="font-size:14px;line-height:16px;">Model of failed Zibold condenser (1912)<br>
 Prior experiments did not include a dome for directing airflow,<br>
 nor a wind-redirecting line of sails to corral moist ocean air.</span><br><br>
@@ -18,6 +24,11 @@ nor a wind-redirecting line of sails to corral moist ocean air.</span><br><br>
 
 3. From an opening at the top of each dome, hit the rocks with polarized green light at a 45 degree angle. Calcualate the increase in available surface area based on the size of stones along the 45 degree edge of pyramid-shaped structures.<br><br>What coatings could be applied to the rock surfaces to further enhance evaporation using polarized light?
 </span>
+
+<span class="floatRight">
+	<a href="img/rome-necropolises.jpg"><img id="right-image" src="img/rome-necropolises.jpg" style="width:100%;max-width:400px;border-radius:20px;"></a></span>
+
+[Similar necropolises 700 BCE in Rome](https://www.summerinitaly.com/guide/etruscan-necropolises-unesco-site) - Lower "[cave roads](https://www.bbc.com/travel/article/20220922-tuscanys-mysterious-cave-roads)" were walkways that connected communities to water. Could they also have been designed as corridors for channeling cool moist air?  Water was part of the ceremony in Etruscan rituals. Used in libations (liquid offerings) to deities and spirits and maintaining garden areas. Along with bread, fruits, and meats - wine, milk, water, olive oil and honey were common libations symbolizing life, blood, and the connection between the living and the dead. Special bowls, cups, and other vessels were used for pouring libations, often intricately decorated and placed in tombs as grave goods.
 
 ## Unsuccessful effort from 1991
 
