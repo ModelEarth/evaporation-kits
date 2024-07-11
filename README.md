@@ -63,25 +63,6 @@ Infrared (IR) from 800 to 1200 nm - Longer wavelength, Invisible.<br>- Morning a
 
 Early morning and evening light is strongly polarized since it reaches the earth's surface at a shallow 90-degree angle from the original path. In addition, the longer path through the atmosphere causes more scattering and greater polarization as photon rotation syncs during transfering of energy to water molecules via [Raman Scattering](https://en.wikipedia.org/wiki/Raman_scattering). &nbsp;More red and orange occur in the morning due to the greater atmospheric scattering of the shorter blue wavelengths. At noon a higher proportion of short wavelength blue light makes it through narrow atmosphere distance, resulting in a full spectrum white appearance.
 
-
-## Capturing water using a Metal-Organic Framework (MOF)
-
-Discovered at MIT in 2021, water is captured from air using tiny aluminum rods containing a porous Metal-Organic Framework (MOF). In&nbsp;March 2023, a 50% efficiency gain was made by adding two carbon atoms as a linker extension.
-
-Does the following article give us liters-per-day to compare with Source.co solar panels?
-[2023 - MOF 50% efficiency gain](https://techxplore.com/news/2023-03-air-metal-organic-framework.html)
-
-## Solar panels that condense water from air
-
-Source.co uses solar panels to condense water from air. Used in over 50 countries, the panels have an internal electric fan to move air through a dry desiccant material to produce 4-5 liters of water per panel per day. They're not using MOF or GreenLight, yet. [Source.co](https://www.source.co)
-
-
-## Water harvesting optimization using multiple technologies
-
-<!--Combining GreenLight evaporation with MOF water capture and Solar Panels for heat and airflow-->
-
-Evaporation using cool green polarized light could further improve Metal-Organic Framework water trapping by increasing the available water vapor. Adding heat and airflow using solar energy could further enhance both the GreenLight evaporation process and MOF water capture. Water is captured in porous MOF material during the cool of the night. The heat of the day  releases the captured water.
-
 ## Photomolecular Effect Details
 
 [How light can vaporize water without the need for heat](https://news.mit.edu/2024/how-light-can-vaporize-water-without-heat-0423)
