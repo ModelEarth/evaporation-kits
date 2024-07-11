@@ -13,7 +13,7 @@ Discovered at MIT in 2021, water is captured from air using tiny aluminum rods c
 Does the following article give us liters-per-day to compare with Source.co solar panels?
 [2023 - MOF 50% efficiency gain](https://techxplore.com/news/2023-03-air-metal-organic-framework.html)
 
-## Solar panels that condense water from air
+## Solar Panels that Condense Water from Air
 
 Source.co uses solar panels to condense water from air. Used in over 50 countries, the panels have an internal electric fan to move air through a dry desiccant material to produce 4-5 liters of water per panel per day. They're not using MOF, heated tube tops, or polarized green light, yet. [Source.co](https://www.source.co)
 
