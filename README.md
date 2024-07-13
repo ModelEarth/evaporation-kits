@@ -63,6 +63,7 @@ Infrared (IR) from 800 to 1200 nm - Longer wavelength, Invisible.<br>- Morning a
 
 Early morning and evening light is strongly polarized since it reaches the earth's surface at a shallow 90-degree angle from the original path. In addition, the longer path through the atmosphere causes more scattering and greater polarization as photon rotation syncs during transfering of energy to water molecules via [Raman Scattering](https://en.wikipedia.org/wiki/Raman_scattering). &nbsp;More red and orange occur in the morning due to the greater atmospheric scattering of the shorter blue wavelengths. At noon a higher proportion of short wavelength blue light makes it through narrow atmosphere distance, resulting in a full spectrum white appearance.
 
+
 ## Photomolecular Effect Details
 
 [How light can vaporize water without the need for heat](https://news.mit.edu/2024/how-light-can-vaporize-water-without-heat-0423)
@@ -71,7 +72,14 @@ The effect is strongest when polarized green light hits the water surface at an 
 
 Clouds absorb more sunlight than conventional physics predicts possible.
 
-## Noteable Experimental Setup
+<br>
+
+<div class="floatRight hideMobile" style="margin-bottom:30px;max-width:320px">
+      <a href="img/Water-Evaporated-Hydrogel-Using-Green-Light.gif" target="_parent"><img id="right-image" src="img/Water-Evaporated-Hydrogel-Using-Green-Light.gif" style="width:100%;border-radius:20px;"></a><br>
+      Evaporation from hydrogel using green light
+</div>
+
+# Noteable Experimental Setup
 
 ## Hydrogel
 
