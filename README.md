@@ -67,6 +67,7 @@ Early morning and evening light is strongly polarized since it reaches the earth
 ## Photomolecular Effect Details
 
 [How light can vaporize water without the need for heat](https://news.mit.edu/2024/how-light-can-vaporize-water-without-heat-0423)
+"In the new study, the researchers demonstrate that the hydrogel is not necessary for the process; it occurs at any water surface exposed to light, whether it’s a flat surface like a body of water or a curved surface like a droplet of cloud vapor."
 
 The effect is strongest when polarized green light hits the water surface at an angle of 45 degrees. (the color dependence is not yet accounted for.)
 
