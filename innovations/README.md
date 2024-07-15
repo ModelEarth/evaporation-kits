@@ -1,10 +1,10 @@
 [Evaporation Kits](../)
 # Innovations in Water Purification
 
-## Seawater to Drinking Water in a few minutes
+## Seawater to Drinking Water in a Few Minutes
 
-[Fast desalination by heating the top of narrow tubes](https://www.msn.com/en-us/lifestyle/lifestyle-buzz/ar-BB1okq2H)  
-Fast, efficient desalination using narrow tubes with the top sides heated to 140 degrees Fahrenheit. The lower side is kept cooler, around 68 degrees. Salt ions collect on the colder side. 
+[Fast Desalination by Heating the Top of Narrow Tubes](https://www.msn.com/en-us/lifestyle/lifestyle-buzz/ar-BB1okq2H)  
+June 2024 - Breakthrough in fast, efficient desalination using narrow tubes with the top sides heated to 140 degrees Fahrenheit. The lower side is kept cool, around 68 degrees. Salt ions collect on the colder side. The prior 53 day process using 1-foot pipes has been reduced to only a few minutes by using numerous 1-millimeter tubes.
 
 ## Capturing water from air using a Metal-Organic Framework (MOF)
 
