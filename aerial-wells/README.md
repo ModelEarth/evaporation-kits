@@ -68,4 +68,6 @@ The pyramids would not supply enough water for irrigation. But they could have e
 
 “We know we can get some water, but we don’t know how much,” Henzi said. “However, the fact the Greeks built 13 expensive pyramids 2,500 years ago is evidence this does work.”
 
+[Turkish Fountain in Taman](https://geometki.com/en/places/667661c03b961) - Built 300 years ago during the Ottoman Empire, humid air from the sea condenses in pipes, which, thanks to deep burial and the pottery manufacturing method, do not heat above 20°C (68°F). As a result, moisture is formed, and the fountain fills with water, even in the heat.
+
 More on [ancient aerial well condensers](https://wikidwelling.fandom.com/wiki/Air_well_(condenser))
