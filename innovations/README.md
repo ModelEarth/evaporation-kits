@@ -1,5 +1,9 @@
-[Evaporation Kits](../)
+[Active Projects](../../projects) - [Evaporation Kits](../)
 # Innovations in Water Purification
+
+<b>RAG Model Training</b> - Help us collect related research articles for Retrieval Augmented Generation (RAG) <a href="/data-commons/docs/water">water goals</a><br>
+Contribute links by adding comments in our <a href="https://docs.google.com/spreadsheets/d/1jQTlXWom-pXvyP9zuTcbdluyvpb43hu2h7anxhF5qlQ/edit?gid=957748871#gid=957748871">Google Sheet</a> for use in our <a href="/projects/location">OpenWebUI Location Projects</a>
+
 
 ## Seawater to Drinking Water in a Few Minutes
 
