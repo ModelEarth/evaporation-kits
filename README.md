@@ -2,7 +2,7 @@
 
 
 <div class="floatRight hideMobile" style="margin-bottom:30px;max-width:320px">
-      <a href="https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031" target="_parent"><img id="right-image" src="img/MIT-Evaporating-01-press.jpg" style="width:100%;border-radius:20px;"></a>
+      <a href="https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031" target="_parent"><img id="right-image" src="../../evaporation-kits/img/MIT-Evaporating-01-press.jpg" style="width:100%;border-radius:20px;"></a>
 </div>
 
 **MIT News:** [Water Evaporation WITHOUT Heat](https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031)
@@ -79,7 +79,7 @@ Clouds absorb more sunlight than conventional physics predicts possible.
 <br>
 
 <div class="floatRight hideMobile" style="margin-bottom:30px;max-width:320px">
-      <a href="img/Water-Evaporated-Hydrogel-Using-Green-Light.gif" target="_parent"><img id="right-image" src="img/Water-Evaporated-Hydrogel-Using-Green-Light.gif" style="width:100%;border-radius:20px;"></a><br>
+      <a href="img/Water-Evaporated-Hydrogel-Using-Green-Light.gif" target="_parent"><img id="right-image" src="../../evaporation-kits/img/Water-Evaporated-Hydrogel-Using-Green-Light.gif" style="width:100%;border-radius:20px;"></a><br>
       Evaporation from hydrogel using green light
 </div>
 
