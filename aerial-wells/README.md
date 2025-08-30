@@ -34,7 +34,7 @@ nor a wind-redirecting line of sails to corral moist ocean air.</span><br><br>
 
 SOURCE: [PYRAMID POWER DRAWS WATER FROM AIR](https://www.sun-sentinel.com/1991/12/29/pyramid-power-draws-water-from-air/)
 
-A group of Seattle engineers thought carefully designed modern pyramids of loose rock could in a sense squeeze water from stones.
+A group of Seattle engineers thought carefully designed modern pyramids of loose rock could, in a sense, squeeze water from stones.
 
 Desert mice use the technique. So did the ancient Greeks.
 
