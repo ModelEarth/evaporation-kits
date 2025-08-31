@@ -1,5 +1,9 @@
 # Energy Consumption in Drying Processes by Industry
 
+TO DO: Display the top 10 drying industries using Harmonized System (HS) codes:
+
+4802, 1901, 2902, 5208, 2523, 4407, 3004, 7005, 6907, 4107
+
 ## Overview
 This document provides information on the top 10 industries that consume the most energy for drying processes globally, along with their main products and corresponding Harmonized System (HS) codes. The data includes total energy consumption and energy used specifically for drying in various regions, based on 2022 statistics.
 
